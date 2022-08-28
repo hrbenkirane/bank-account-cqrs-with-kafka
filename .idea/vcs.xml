@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/account_cmd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/account_common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/account_query" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../cqrs-es/cqrs_core" vcs="Git" />
   </component>
 </project>

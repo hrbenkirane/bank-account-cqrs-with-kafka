@@ -5,6 +5,10 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../cqrs-es/cqrs_core/pom.xml" />
+        <option value="$PROJECT_DIR$/account_cmd/pom.xml" />
+        <option value="$PROJECT_DIR$/account_common/pom.xml" />
+        <option value="$PROJECT_DIR$/account_query/pom.xml" />
       </list>
     </option>
   </component>
