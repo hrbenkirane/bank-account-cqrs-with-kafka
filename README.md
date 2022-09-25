@@ -1,4 +1,4 @@
-# bank Account Management  (cqrs using kafka)
+# Bank Account Management  (cqrs using kafka)
 POC Project using CQRS Pattern with Kafka
 
 # Tools Installation
